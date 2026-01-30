@@ -1,0 +1,9 @@
+{
+  "name": "rwa-tokenizer",
+  "version": "1.0.0",
+  "description": "Regulated Asset Tokenization (RWA)",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.19.4"
+  }
+}
